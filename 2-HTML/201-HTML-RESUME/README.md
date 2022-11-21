@@ -11,3 +11,4 @@ This is your assignment 1, where you have to make your resume
 - Create the above resume using HTML only
 - Host the Resume and provide the link in this README file 
 
+https://github.com/Suryakant0422/resumeindex.html.git
