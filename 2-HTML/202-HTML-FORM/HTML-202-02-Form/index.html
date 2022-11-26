@@ -4,9 +4,38 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>HTML Assignment 202-01</title>
   </head>
   <body>
-    Start coding here
+    <fieldset>
+        <legend>Personal Details</legend>
+        <p>Salutation <br>
+        <select name="salutation" id="salutation">
+           <option value="--None--">--None--</option>
+           <option value="Mr.">Mr.</option>
+           <option value="Ms.">Ms.</option>
+        </select>
+    </p>
+     <p>
+        First Name : <input type="text" name="name" id="name">
+     </p>
+     <p>
+        Last Name : <input type="text" name="lname" id="lname">
+     </p>
+     <p>
+        Gender:  Male:  <input type="radio" name="gender" id="gender"> 
+        Female:  <input type="radio" name="gender" id="gender">
+         </p>
+    <p>
+        Email: <input type="email" name="email" id="email">
+    </p>
+    <p>
+        Date of Birth: <input type="date" name="date_ob" id="date_ob">
+    </p>
+    <p>
+        Address: <textarea name="address" id="address" cols="40" rows="8"></textarea>
+    </p>
+    <input type="submit" value="Submit">
+    </fieldset>
   </body>
 </html>
