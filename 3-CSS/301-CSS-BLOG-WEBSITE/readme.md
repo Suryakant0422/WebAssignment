@@ -20,3 +20,5 @@ Figma Link : [Medium Page Figma](https://www.figma.com/file/SdIM8MBoUSkNFw7Oyqfb
 
 - Complete all above assignments in their respective folders
 - Html should be in `index.html` file and styling should be in `style.css` file
+
+https://suryakant0422.github.io/CSS-303-01/
