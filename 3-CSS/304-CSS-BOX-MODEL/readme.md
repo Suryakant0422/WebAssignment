@@ -2,6 +2,7 @@
 
 <hr>
 <hr>
+https://suryakant0422.github.io/css-304-01/
 
 ## Class Projects
 
@@ -58,3 +59,4 @@ HOSTED LINK :
 
 - Complete all above assignments in their respective folders
 - Html should be in `index.html` file and styling should be in `style.css` file
+ 
