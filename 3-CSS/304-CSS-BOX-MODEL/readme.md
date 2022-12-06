@@ -28,6 +28,7 @@ HOSTED LINK :
 ![Subscribe Card](https://user-images.githubusercontent.com/113756096/192524752-74a23df5-bf62-4381-a77f-98b1b82d9da1.png)
 
 <hr>
+https://suryakant0422.github.io/CSS-304-02/
 
 ### Project CSS-304-03
 
