@@ -1,1 +1,25 @@
 /* start your css here */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 500px;
+    height: 620px;
+    border: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 450px;
+    height: 550px;
+}
+p{
+    margin: 5px;
+    font-size: large;
+}
+h5{
+    color: grey;
+    margin: 5px;
+    font-size: large;
+}
