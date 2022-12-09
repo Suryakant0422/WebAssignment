@@ -13,6 +13,7 @@
 Go on this link and solve the challenges https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1
 
 <hr>
+https://suryakant0422.github.io/CSS-306-02/
 
 #### Project CSS-306-03
 
