@@ -7,6 +7,52 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- start your code here -->
+    <div class="container">
+        <form name="Calculator" class = "calculator" >  
+            <table  cellpadding="15" cellspacing="12" > 
+                <tr>
+             <td>
+                <input  type="text" name="Input"  id="display"> 
+                <input type="button" value="C" style="height: 45px; width: 45PX; background-color: rgb(236, 96, 120); border-radius: 4PX;"  OnClick="Calculator.Input.value = ''">
+             </td>
+              </tr>
+              <tr>
+               <td>
+                <input type="button" name = "one"  value=" 1 " OnClick="Calculator.Input.value += '1'">  
+                <input type="button" name = "two"  value=" 2 " OnClick="Calculator.Input.value += '2'">  
+                <input type="button" name = "three"  value=" 3 " OnClick="Calculator.Input.value += '3'">  
+                <input type="button"   name="div" value=" / " OnClick="Calculator.Input.value += ' / '"  style="height: 48px; width: 45PX;">  
+             </td>
+              </tr> 
+              <tr>
+                <td>
+                 <input type="button" name = "four"  value=" 4 " OnClick="Calculator.Input.value += '4'">  
+                 <input type="button" name = "five"  value=" 5 " OnClick="Calculator.Input.value += '5'">  
+                 <input type="button" name = "six"  value=" 6 " OnClick="Calculator.Input.value += '6'"> 
+                 <input type="button"   name="minus" value=" - " OnClick="Calculator.Input.value += ' - '"  style="height: 48px; width: 45PX;">  
+              </td>
+               </tr> 
+               <tr>
+                <td>
+                 <input type="button" name = "seven"  value=" 7 " OnClick="Calculator.Input.value += '7'">  
+                 <input type="button" name = "eight"  value=" 8 " OnClick="Calculator.Input.value += '8'">  
+                 <input type="button" name = "nine"  value=" 9 " OnClick="Calculator.Input.value += '9'"> 
+                 <input type="button"name="plus" value=" + " OnClick="Calculator.Input.value += ' + '"  style="height: 48px; width: 45PX;">  
+              </td>
+               </tr> 
+               <tr>
+                <td>
+                 <input type="button" name = "dot"  value=" . " OnClick="Calculator.Input.value += '.'">  
+                 <input type="button" name = "zero"  value=" 0 " OnClick="Calculator.Input.value += '0'">  
+                 <input type="button" name = "equal"  value=" = " OnClick="Calculator.Input.value = eval(Calculator.Input.value)" style="background-color:rgb(236, 96, 120); ;"> 
+                 <input type="button"   name="mul" value=" * " OnClick="Calculator.Input.value += ' * '" style="height: 48px; width: 45PX;">  
+              </td>
+               </tr> 
+
+
+            </table>  
+        </form>  
+
+    </div>    
 </body>
 </html>
