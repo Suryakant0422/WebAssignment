@@ -29,6 +29,8 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 <img src="images/linkedin_landingpage.png">
 
+https://suryakant0422.github.io/CSS-305-06/
+
 <hr>
 
 ## Homework Projects
