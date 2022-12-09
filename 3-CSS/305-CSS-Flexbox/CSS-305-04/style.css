@@ -1,1 +1,98 @@
 /* start your styling here  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Zen+Dots&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+nav  {
+    background-color: #2874f0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+    font-family: 'Roboto', sans-serif;
+
+    
+}
+.yellowcolor{
+    color: yellow;
+    font-weight: 500;
+}
+
+.logo p{
+    color: white;
+    position: relative;
+    top: -5px;
+    right: 8px;
+}
+.search {
+    background-color: white;
+    padding: 8px;
+    height: 20px;
+    width: 480px;
+    margin: 0px 15px;
+    display: flex;
+    justify-content: space-between;
+    color: #2874f0;
+    box-shadow:  -8px -8px 10px rgba(0,0,0,0.1);
+}
+.search input{
+    width: 380px;
+    border:none;
+    outline: none;
+    font-size: 14px;
+   
+}
+.classbtn{
+  padding: 8px 40px;
+  color: #2874f0;
+  font-size: 16px;
+  font-size: 500;
+  background-color: white;
+  border: none;
+  margin: 0px 15px;
+}
+.navlink{
+    margin: 0px 20px;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+.lock{
+    color: white;
+    position: relative;
+    left: 15px;
+    font-size: 10px;   
+}
+
+
+
+.productsnavbar{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 50px;
+    border-bottom: 1px solid grey;
+}
+
+.topproductnav{
+    width: 80px;
+    height: 112px;
+    cursor: pointer;
+    flex: 1;
+}
+.topproductnav img{
+    width: 64px;
+    height: 64px;
+  
+}
+.topproductnav p{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topproductnav:hover p{
+    color: #2874f0;
+    
+}
