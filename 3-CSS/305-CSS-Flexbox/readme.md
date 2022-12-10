@@ -13,6 +13,8 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 <img src="images/Calculator.png">
 
+https://suryakant0422.github.io/CSS305-02/
+
 #### Project CSS-305-03
 
 <img src="images/Flex2_cards.png">
