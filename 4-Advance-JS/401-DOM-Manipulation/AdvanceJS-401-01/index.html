@@ -5,8 +5,39 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+     <style>
+       
+       div{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+       }
+        
+        input[type ="text"]
+        {
+            width: 200px;
+            height: 35px;
+            border: 2px solid greenyellow;
+        }
+        p{
+            font-size: 20px;
+        }
+    </style>
   </head>
   <body>
-    Start your code here
+  <div>
+    <input type="text" id="input-text">
+    <p id="output-text"></p>
+    </div>
+    <script>
+         const input = document.getElementById("input-text");
+         const output = document.getElementById("output-text")
+
+        input.addEventListener('input', function() {
+            output.textContent = input.value;
+        })
+    </script>
   </body>
 </html>
