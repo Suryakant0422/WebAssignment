@@ -11,7 +11,7 @@ Your job is output what ever is typed in the input into the p tag.
 ![](./image/ex-1.png)
 
 <hr>
-
+https://suryakant0422.github.io/AdvanceJS-401-01/
 ## Exercise: AdvanceJS-401-02
 
 2. You are given a list of DOM elements inside a
