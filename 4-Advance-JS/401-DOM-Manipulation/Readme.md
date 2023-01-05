@@ -23,6 +23,8 @@ Your job is output what ever is typed in the input into the p tag.
 Your job is to give the first child a blue background, the last child a palevioletred background and the 9th child a green background. Then make all of the even numbers lime using DOM Manipulation.
 ![](./image/ex-2.png)
 
+
+https://suryakant0422.github.io/JS-401-02/
 <hr>
 
 
