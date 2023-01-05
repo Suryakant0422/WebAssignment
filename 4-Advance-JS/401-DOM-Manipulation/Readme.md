@@ -45,5 +45,5 @@ An Image Slider that comprises several images displayed on a web application is 
 <hr>
 
 HOSTED LINK :
-
+https://suryakant0422.github.io/JS-401-03/
 <hr>
