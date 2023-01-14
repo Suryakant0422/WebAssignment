@@ -27,7 +27,8 @@ With this tip calculator, you won’t have to look around the table to determine
 (total = (billAmount*serviceQuality)/ numPeople)
 
 ![](./image/tip1.png)
-	
+
+https://suryakant0422.github.io/JS-403-03/
 <hr>
 
 # steps to submit your assignments
