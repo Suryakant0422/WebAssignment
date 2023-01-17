@@ -9,6 +9,7 @@ If you have done the previous mini project it's great you are going really well.
 The data is given to you in countries_data.js file so, try your hands on this project.
 
 <hr> 
+https://suryakant0422.github.io/js-405-01/
 
 1. Visualize the ten most populated countries and the ten most spoken languages in the world using DOM(HTML, CSS, JS)
 
