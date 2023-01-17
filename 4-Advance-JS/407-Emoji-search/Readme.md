@@ -15,7 +15,7 @@ The creation of an emoji search application is our upcoming challenge.
 ![](./image/emoji.png)
 
 <hr>
-
+https://suryakant0422.github.io/JS-407-01-EMOJI-SEARCH/
 # steps to submit your assignments
 
 - Complete the assignments listed above in respective folders.
