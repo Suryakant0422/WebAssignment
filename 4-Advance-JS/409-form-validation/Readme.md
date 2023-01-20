@@ -16,6 +16,7 @@ Many websites utilize form validation for client-side validation of user details
 
    ![form validation](./image/dom_mini_project_form_validation_day_10.2.png)
 
+https://suryakant0422.github.io/Validate-Form/
 <hr>
 
 # steps to submit your assignments
