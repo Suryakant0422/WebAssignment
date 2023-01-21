@@ -13,7 +13,7 @@ API- https://api.github.com
 feel free to explore this API refer this documentation [Click me👆](https://docs.github.com/en/developers/overview/about-githubs-apis)
 
 ![](./image/github_finder.png)
-
+https://suryakant0422.github.io/Github-Finder/
 <hr>
 
 ## 2. Dictionary app AdvanceJS-410-02
